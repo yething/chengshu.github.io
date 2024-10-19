@@ -2594,12 +2594,12 @@ body::before {
   font-size: 0.9em;
   color: #999;
 }
-@media (min-width: 1155px) {
+@media (min-width: 1275px) {
   .header-nav-inner {
-    width: 1155px;
+    width: 1275px;
   }
   .main-inner {
-    width: 1155px;
+    width: 1275px;
   }
 }
 @media (min-width: 991.98px) {
